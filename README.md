@@ -35,4 +35,4 @@ Whatsapp-Bot adalah aplikasi inovatif yang dirancang untuk mengoptimalkan penggu
      #### dan untuk menjalankannya
          node index.js
      #### dan
-          npx json-server --watch db/db.json --port (port number)
+          npx json-server --watch db/db.json --port 3001
